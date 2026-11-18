@@ -1,4 +1,4 @@
-# Victoria 3 DLC Unlocker & Activator Tool**
+# Victoria 3 DLC Unlocker & Activator Tool
 
 A simple and universal tool that automatically activates DLCs in **Victoria 3**. Currently works for Steam and Epic Games versions only.
 
@@ -8,7 +8,7 @@ A simple and universal tool that automatically activates DLCs in **Victoria 3**.
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Victoria-3-DLC-Manager-Tool/.github/releases)
   
 ---
 
